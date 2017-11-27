@@ -1,4 +1,45 @@
-﻿### 0.12.29 (2017-09-17 09:00:00 UTC)
+﻿### 0.12.37 (2017-11-12 10:35:00 UTC)
+
+* Change improve .nzb handling
+
+
+### 0.12.36 (2017-11-01 11:45:00 UTC)
+
+* Change qBittorent to handle the change to its API success/fail response
+
+
+### 0.12.35 (2017-10-27 20:30:00 UTC)
+
+* Change and add some network logos
+
+
+### 0.12.34 (2017-10-25 15:20:00 UTC)
+
+* Change improve TVChaos parser
+
+
+### 0.12.33 (2017-10-12 13:00:00 UTC)
+
+* Change improve handling of torrent auth failures
+
+
+### 0.12.32 (2017-10-11 02:05:00 UTC)
+
+* Change improve PA torrent access
+
+
+### 0.12.31 (2017-10-06 22:30:00 UTC)
+
+* Change improve handling of connection failures for metadata during media processing
+
+
+### 0.12.30 (2017-09-29 00:20:00 UTC)
+
+* Fix Media Providers/Custom Newznab tab action 'Delete' then 'Save Changes'
+* Fix enforce value API expects for paused show flag
+
+
+### 0.12.29 (2017-09-17 09:00:00 UTC)
 
 * Fix provider nCore
 * Change .torrent checker due to files created with qB 3.3.16 (affects nCore and NBL)
